@@ -92,6 +92,10 @@ h1, h2, h3, h4, h5, h6 {
     transform: translate3d(0, 0, 0);
 }
 
+.header.fixed .nav__link {
+    color: #2A6CEA;
+}
+
 .header.active {
     background-color: #4684f8;
 }
